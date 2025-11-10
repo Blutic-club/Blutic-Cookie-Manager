@@ -1,5 +1,5 @@
 homepage: "https://www.blutic.club"
 documentation: "https://www.blutic.club/guides/google-tag-manager-user-guide"
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
-    changeNotes: Initial release.
+  - sha: 69bdc32e2d683cc6ac0745b3379e63bba758523f
+    changeNotes: Added a detailed README and metadata file, along with updated template
