@@ -88,6 +88,7 @@ For issues or questions:
 
 - Visit: https://www.blutic.club
 - Documentation: https://www.blutic.club/guides/google-tag-manager-user-guide
+- Email: support@blutic.club
 
 ## License
 
